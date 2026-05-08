@@ -12,7 +12,7 @@ Para visualizar el código se ingresa a la ruta:
    ```
 Y se selecciona gui o logica según corresponda.
 
-Como refetencia, dejo la ponderación recibica en cada práctica:
+Como refetencia, dejo la ponderación recibida en cada práctica:
 | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 | P11 | P12 | C1 | C2 |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 10 | 8 | 9 | 7 | 7 | 7 | 8 | 8 | 7 | 8 | 8 | 8 | 9 | - |
